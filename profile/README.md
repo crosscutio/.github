@@ -4,9 +4,11 @@ All outputs from the Crosscut application are provided under [CC0 1.0](https://c
 If you would like to cite the Crosscut application in any publications you make based on the outputs of the tool, here is an example of how to structure the attribution. However, this is not required under the CC0 1.0 license. 
 
 _Example of Attribution_
+
 [Catchment Area Maps](https://app.crosscut.io/) produced by [Crosscut](https://crosscut.io/) are licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
 
 _Markdown Used to Generate Attribution_
+
 `[Catchment Area Maps](https://app.crosscut.io/) produced by [Crosscut](https://crosscut.io/) are licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)`
 
 The outputs of the Crosscut application draw from a variety of different sources, all of which are provided by the creators under open data licenses or do not have restrictions placed on their use beyond requiring attribution. Please see below for the list of data sources used to generate the outputs of the application.
@@ -24,7 +26,9 @@ The outputs of the Crosscut application draw from a variety of different sources
 - [Terrain Tiles](https://registry.opendata.aws/terrain-tiles/) are provided by [Mapzen](https://www.mapzen.com/). No specific licensing information available. 
 
 _Global Access Commitment_
+
 Crosscut manages access to our application in a manner that ensures Global Access. "Global Access" means: (a) the knowledge and information gained from the application are promptly and broadly disseminated via our publicly available application accessed at https://app.crosscut.io, and (b) our application is made available and accessible at an affordable price to people most in need within developing countries. We fulfill this commitment by making the application free of charge to users.
 
 _Waiver of Liability_
+
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
