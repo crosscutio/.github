@@ -1,4 +1,4 @@
-### Licensing Information
+## Licensing Information
 All outputs from the Crosscut application are provided under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) and may be used and/or adapted for any purpose without attribution. 
 
 If you would like to cite the Crosscut application in any publications you make based on the outputs of the tool, here is an example of how to structure the attribution. However, this is not required under the CC0 1.0 license. 
@@ -32,3 +32,53 @@ Crosscut manages access to our application in a manner that ensures Global Acces
 _Waiver of Liability_
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Privacy Policy
+_Last Updated: November 1, 2023_
+
+Crosscut is committed to protecting the privacy and security of our users' data. This Privacy Policy outlines our practices regarding data collection, use, and protection, in compliance with the General Data Protection Regulation (GDPR) and U.S. privacy regulations.
+
+_Data Collection and Usage_
+
+Our service collects data on how users interact with our application. This data is gathered solely to improve user experience. We do not collect personal data that can directly identify an individual unless explicitly provided by the user.
+
+_Legal Basis for Processing_
+
+Under GDPR, the legal basis for processing user data is our legitimate interest in enhancing our service and user experience.
+
+_Data Sharing and Disclosure_
+
+We uphold a strict policy of not sharing user data externally. This commitment ensures that user data remains confidential and secure.
+
+_Data Storage and Security_
+
+User data is securely stored in the cloud. We employ industry-standard cybersecurity best practices to protect this data from unauthorized access, alteration, or destruction.
+
+_User Rights_
+
+In accordance with GDPR, users have the following rights:
+- Right to access their data.
+- Right to download their data.
+- Right to delete their data.
+- Right to rectification.
+- Right to restrict processing.
+- Right to object to processing.
+- Right to data portability.
+Users can exercise these rights by contacting us at the details provided below.
+
+_International Data Transfers_
+
+As a global service, user data may be processed outside of the European Economic Area (EEA). We ensure that all data transfers comply with GDPR and provide the same level of data protection.
+
+_Data Licensing_
+
+The data made available by our service is under a CC0 1.0 Universal (CC0 1.0) Public Domain Dedication license. This allows for the free use, modification, and sharing of the data.
+
+_Contact Information_
+
+For any inquiries or concerns regarding our privacy policy or data practices, users can contact us at coite@crosscut.io.
+
+_Changes to the Policy_
+
+We reserve the right to modify this policy at any time. Changes will be posted to this page and, where appropriate, notified to users via email.
+
