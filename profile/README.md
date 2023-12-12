@@ -73,6 +73,7 @@ Buildings, OpenStreetMap| The total count of buildings estimated to be within th
 Google Buildings 60+% Confidence| The total count of buildings estimated to be within the catchment area, based on Google's [Open Buildings](https://sites.research.google/open-buildings/#faq), counting only those features rated with a 60% or greater confidence that they are buildings
 Google Buildings 70+% Confidence| The total count of buildings estimated to be within the catchment area, based on Google's [Open Buildings](https://sites.research.google/open-buildings/#faq), counting only those features rated with a 70% or greater confidence that they are buildings
 Google Buildings 80+% Confidence| The total count of buildings estimated to be within the catchment area, based on Google's [Open Buildings](https://sites.research.google/open-buildings/#faq), counting only those features rated with a 80% or greater confidence that they are buildings
+Average Building Footprint (m2) | Average square meters of the land area covered by each building in the catchment area based on Google's [Open Buildings](https://sites.research.google/open-buildings/#faq), counting only those features rated with a 80% or greater confidence that they are buildings
 
 ## Privacy Policy
 _Last Updated: November 1, 2023_
