@@ -33,6 +33,66 @@ _Waiver of Liability_
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+## Data Dictionary
+
+### User Created Catchment Areas
+|  |  |
+| --------- | -----    |
+| Creator   | Crosscut |
+| Description | The user can download the geographies catchment areas that they generated via the app as vector-based GIS datasets |
+| Subject     | Population Estimates; Microplanning; Geospatial; Health Campaign Planning; Vaccination Planning       |
+| License | CC0        |
+| Access Information | Catchment Areas are accessible via the Crosscut App once the user logs in        |
+| Language  | The language of the resulting dataset is specified by the user. The app supports English, Amharic, Arabic, and French |
+| File Format(s) | .kml; .geojson |
+
+
+| Output Column | Description |
+| --------- | -----    |
+| Total population, WorldPop (2020) | The total population estimated to live within the given catchment area, based on [WorldPop](https://hub.worldpop.org/project/categories?id=3) gridded population estimates
+Total population, WorldPop UN (2020)| The total population estimated to live within the given catchment area, based on [WorldPop](https://hub.worldpop.org/project/categories?id=3) gridded population estimates and adjusted to match United Nations national estimates
+Total population, Meta| The total population estimated to live within the given catchment area, based on [Meta's Data for Good](https://dataforgood.facebook.com/dfg/tools/high-resolution-population-density-maps) gridded population estimates 
+Total women| The total number of women estimated to live within the given catchment area, based on [Meta's Data for Good](https://dataforgood.facebook.com/dfg/tools/high-resolution-population-density-maps) gridded population estimates 
+Total men| The total number of men estimated to live within the given catchment area, based on [Meta's Data for Good](https://dataforgood.facebook.com/dfg/tools/high-resolution-population-density-maps) gridded population estimates 
+Children under 5| The total number of children under 5 estimated to live within the given catchment area, based on [Meta's Data for Good](https://dataforgood.facebook.com/dfg/tools/high-resolution-population-density-maps) gridded population estimates 
+People 15 to 24| The total number of people aged 15 to 24 estimated to live within the given catchment area, based on [Meta's Data for Good](https://dataforgood.facebook.com/dfg/tools/high-resolution-population-density-maps) gridded population estimates 
+Women 15 to 49| The total number of women aged 15 to 49 estimated to live within the given catchment area, based on [Meta's Data for Good](https://dataforgood.facebook.com/dfg/tools/high-resolution-population-density-maps) gridded population estimates 
+People 60 and older| The total number of people aged 60 and over estimated to live within the given catchment area, based on [Meta's Data for Good](https://dataforgood.facebook.com/dfg/tools/high-resolution-population-density-maps) gridded population estimates 
+Buildings, OpenStreetMap| The total count of buildings estimated to be within the catchment area, based on [OSM Buildings](https://osmbuildings.org/)
+Google Buildings 60+% Confidence| The total count of buildings estimated to be within the catchment area, based on Google's [Open Buildings](https://sites.research.google/open-buildings/#faq), counting only those features rated with a 60% or greater confidence that they are buildings
+Google Buildings 70+% Confidence| The total count of buildings estimated to be within the catchment area, based on Google's [Open Buildings](https://sites.research.google/open-buildings/#faq), counting only those features rated with a 70% or greater confidence that they are buildings
+Google Buildings 80+% Confidence| The total count of buildings estimated to be within the catchment area, based on Google's [Open Buildings](https://sites.research.google/open-buildings/#faq), counting only those features rated with a 80% or greater confidence that they are buildings
+
+
+
+
+|  |  |
+| --------- | -----    |
+| Creator   | Crosscut |
+| Description | The user can download the microplans associated with the catchment areas they generated via the app as a data table. |
+| Subject     | Population Estimates; Microplanning; Geospatial; Health Campaign Planning; Vaccination Planning       |
+| License | CC0        |
+| Access Information | Microplans are accessible via the Crosscut App once the user logs in        |
+| Language  | The language of the resulting dataset is specified by the user. The app supports English, Amharic, Arabic, and French |
+| File Format(s) | .csv |
+
+
+| Output Column | Description |
+| --------- | -----    |
+| Total population, WorldPop (2020) | The total population estimated to live within the given catchment area, based on [WorldPop](https://hub.worldpop.org/project/categories?id=3) gridded population estimates
+Total population, WorldPop UN (2020)| The total population estimated to live within the given catchment area, based on [WorldPop](https://hub.worldpop.org/project/categories?id=3) gridded population estimates and adjusted to match United Nations national estimates
+Total population, Meta| The total population estimated to live within the given catchment area, based on [Meta's Data for Good](https://dataforgood.facebook.com/dfg/tools/high-resolution-population-density-maps) gridded population estimates 
+Total women| The total number of women estimated to live within the given catchment area, based on [Meta's Data for Good](https://dataforgood.facebook.com/dfg/tools/high-resolution-population-density-maps) gridded population estimates 
+Total men| The total number of men estimated to live within the given catchment area, based on [Meta's Data for Good](https://dataforgood.facebook.com/dfg/tools/high-resolution-population-density-maps) gridded population estimates 
+Children under 5| The total number of children under 5 estimated to live within the given catchment area, based on [Meta's Data for Good](https://dataforgood.facebook.com/dfg/tools/high-resolution-population-density-maps) gridded population estimates 
+People 15 to 24| The total number of people aged 15 to 24 estimated to live within the given catchment area, based on [Meta's Data for Good](https://dataforgood.facebook.com/dfg/tools/high-resolution-population-density-maps) gridded population estimates 
+Women 15 to 49| The total number of women aged 15 to 49 estimated to live within the given catchment area, based on [Meta's Data for Good](https://dataforgood.facebook.com/dfg/tools/high-resolution-population-density-maps) gridded population estimates 
+People 60 and older| The total number of people aged 60 and over estimated to live within the given catchment area, based on [Meta's Data for Good](https://dataforgood.facebook.com/dfg/tools/high-resolution-population-density-maps) gridded population estimates 
+Buildings, OpenStreetMap| The total count of buildings estimated to be within the catchment area, based on [OSM Buildings](https://osmbuildings.org/)
+Google Buildings 60+% Confidence| The total count of buildings estimated to be within the catchment area, based on Google's [Open Buildings](https://sites.research.google/open-buildings/#faq), counting only those features rated with a 60% or greater confidence that they are buildings
+Google Buildings 70+% Confidence| The total count of buildings estimated to be within the catchment area, based on Google's [Open Buildings](https://sites.research.google/open-buildings/#faq), counting only those features rated with a 70% or greater confidence that they are buildings
+Google Buildings 80+% Confidence| The total count of buildings estimated to be within the catchment area, based on Google's [Open Buildings](https://sites.research.google/open-buildings/#faq), counting only those features rated with a 80% or greater confidence that they are buildings
+
 ## Privacy Policy
 _Last Updated: November 1, 2023_
 
