@@ -36,7 +36,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 ## Data Dictionary
 
 ### User Created Catchment Areas
-#### Characteristics of Dataset
+_Characteristics of Dataset_
 |  |  |
 | --------- | -----    |
 | Creator   | Crosscut |
@@ -47,7 +47,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 | Language  | The language of the resulting dataset is specified by the user. The app supports English, Amharic, Arabic, and French |
 | File Format(s) | .kml; .geojson |
 
-#### Fields of Dataset
+_Fields of Dataset_
 | Output Field | Description |
 | --------- | -----    |
 | Total population, WorldPop (2020) | The total population estimated to live within the given catchment area, based on [WorldPop](https://hub.worldpop.org/project/categories?id=3) gridded population estimates
@@ -65,7 +65,7 @@ Google Buildings 70+% Confidence| The total count of buildings estimated to be w
 Google Buildings 80+% Confidence| The total count of buildings estimated to be within the catchment area, based on Google's [Open Buildings](https://sites.research.google/open-buildings/#faq), counting only those features rated with a 80% or greater confidence that they are buildings
 
 ### User Created Microplans
-#### Characteristics of Dataset
+_Characteristics of Dataset_
 |  |  |
 | --------- | -----    |
 | Creator   | Crosscut |
@@ -76,7 +76,7 @@ Google Buildings 80+% Confidence| The total count of buildings estimated to be w
 | Language  | The language of the resulting dataset is specified by the user. The app supports English, Amharic, Arabic, and French |
 | File Format(s) | .csv |
 
-#### Fields of Dataset
+_Fields of Dataset_
 | Output Field | Description |
 | --------- | -----    |
 | Total population, WorldPop (2020) | The total population estimated to live within the given catchment area, based on [WorldPop](https://hub.worldpop.org/project/categories?id=3) gridded population estimates
