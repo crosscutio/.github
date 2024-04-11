@@ -29,6 +29,15 @@ _Global Access Commitment_
 
 Crosscut manages access to our application in a manner that ensures Global Access. "Global Access" means: (a) the knowledge and information gained from the application are promptly and broadly disseminated via our publicly available application accessed at https://app.crosscut.io, and (b) our application is made available and accessible at an affordable price to people most in need within developing countries. We fulfill this commitment by making the application free of charge to users.
 
+Crosscut catchment area maps are recognized as a [Digital Public Good](https://app.digitalpublicgoods.net/a/11028).  According to the Digital Public Goods Alliance: 
+        
+        The Digital Public Goods Standard is a set of specifications and guidelines designed to maximise consensus 
+        about whether a digital solution conforms to the definition of a digital public good. According to the UN 
+        Secretary General’s Roadmap for Digital Cooperation, digital public goods are open-source software, open 
+        standards, open data, open AI systems, and open content collections that adhere to privacy and other 
+        applicable best practices, do no harm, and are of high relevance for attainment of the United Nations 
+        2030 Sustainable Development Goals (SDGs).
+
 _Waiver of Liability_
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
