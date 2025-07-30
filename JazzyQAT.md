@@ -1,7 +1,7 @@
 # JazzyQAT
 
 ### Last Update
-July 25, 2025
+July 30, 2025
 
 ### Why JazzyQAT?
 With the demise of USAID, all US Government funded programming for family planning stopped. This included stopping all USG-funded supply plans and forecasts for family planning commodities. This happened because the USG-funded tool—the Quantification Analytics Tool—was no longer available for family planning forecasts and supply plans. This abrupt change has had a ripple effect beyond the USG because many global stakeholders also relied on that country visibility when planning global procurement and shipments. This critical gap is directly impacting the availability of commodities across the Globe. We wanted to do something about it, so we launched JazzyQAT.
@@ -10,13 +10,14 @@ With the demise of USAID, all US Government funded programming for family planni
 This project includes code from the [Quantification Analytics Tool ](https://www.ghsupplychain.org/quantificationanalyticstool)(QAT), originally developed by the [USAID Global Health Supply Chain Program](https://www.ghsupplychain.org/PSM), licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0). Modifications have been made by [Crosscut](https://crosscut.io/) and redistributed as JazzyQAT.
 
 ### Current State
-As of July 18, 2025, JazzyQAT is available for use and replicates the full functionality of the QAT. Please reach out to [Sam](mailto:sam@crosscut.io) to secure an account. If you are interested in learning more about using JazzyQAT for your supply chain planning, please reach out to [Coite](mailto:coite@crosscut.io) to discuss if JazzyQAT could be a fit for you. 
+As of July 30, 2025, JazzyQAT is available for use and replicates the existing functionality of the QAT. If you are interested in learning more about using JazzyQAT for your supply chain planning, please reach out to [Coite](mailto:coite@crosscut.io) to discuss if JazzyQAT could be a fit for you. 
 
 ### Future State
 Over time, we hope to make several enhancements to JazzyQAT:
 
 - [ ] Offer a simplified user interface to ease use and minimize training needs
 - [ ] Enable optional integration with your country’s LMIS and DHIS2 to improve planning input data and to ease use
+- [ ] Enable AI-agent based workflows to streamline processes and focus human analysis where it is most needed
 - [ ] Expand geospatial forecasting and microplanning capabilities of JazzyQAT by leveraging [Crosscut App](https://crosscut.io/app) technology.
 - [ ] Enable integration with other global platforms to improve global visibility into country needs (as appropriate, in consultation with stakeholders).
 
