@@ -15,6 +15,8 @@ The outputs of the Crosscut application draw from a variety of different sources
 
 - [geoBoundaries Administrative Boundaries](https://www.geoboundaries.org/countryDownloads.html) by [geoBoundaries](https://www.geoboundaries.org/index.html) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - [Google Open Buildings](https://sites.research.google/open-buildings/) by [Google Research](https://sites.research.google/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- [Overture Buildings](https://overturemaps.org/overture-december-2023-release-notes/) by [Overture Maps Foundation](https://overturemaps.org/) is licensed under
+  [ODbL](https://opendatacommons.org/licenses/odbl/1-0/)
 - [GRID3 Population Data](https://data.grid3.org/) by [GRID3](https://grid3.org/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - [Kontur Population Density Dataset](https://www.kontur.io/portfolio/population-dataset/) by [Kontur](https://www.kontur.io/) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - [Meta Population Counts](https://dataforgood.facebook.com/dfg/tools/high-resolution-population-density-maps) by [Data for Good at Meta](https://dataforgood.facebook.com/dfg/about) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -97,6 +99,7 @@ Google Buildings 60+% Confidence (yyyy-mm)| The total count of buildings estimat
 Google Buildings 70+% Confidence (yyyy-mm)| The total count of buildings estimated to be within the catchment area, based on Google's [Open Buildings](https://sites.research.google/open-buildings/#faq), counting only those features rated with a 70% or greater confidence that they are buildings
 Google Buildings 80+% Confidence (yyyy-mm)| The total count of buildings estimated to be within the catchment area, based on Google's [Open Buildings](https://sites.research.google/open-buildings/#faq), counting only those features rated with a 80% or greater confidence that they are buildings
 Average Building Footprint (m<sup>2</sup>) (yyyy-mm) | Average square meters of the land area covered by each building in the catchment area based on Google's [Open Buildings](https://sites.research.google/open-buildings/#faq), counting only those features rated with a 80% or greater confidence that they are buildings
+Overture Buildings (yyyy-mm-dd) | The total count of buildings estimated to be within the catchment area, based on [Overture Buildings](https://overturemaps.org/overture-december-2023-release-notes/) |
 
 ## Privacy Policy
 _Last Updated: November 1, 2023_
